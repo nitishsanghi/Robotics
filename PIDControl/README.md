@@ -1,5 +1,5 @@
 # PID Controller for autonomous car
-
+In this project, self-driving car drives itself based on control inputs to minimize the Cross Track Error (CTE) for the car using a PID controller. The parameters of the controller are tuned to ensure the car remains on the road and does not jump the lane lines in the simulator. The pipeline is implemented in C++. The controller is tested in a UDACITY provided simulator for a self-driving car. The proportional, derivative, and integral gains were tuned by brute force by observing the controller drive the car in the simulator and making appropriate adjustments (not a desirable tuning method!).
 
 ![Alt Text](https://media.giphy.com/media/MsBLKpFjjvQtizgJlS/giphy-downsized.gif)
 ## Dependencies
