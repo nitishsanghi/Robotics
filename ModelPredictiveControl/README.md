@@ -1,5 +1,5 @@
 # Model Predictive Control
-
+In this project, self-driving car drives itself based on control inputs to minimize the Cross Track Error (CTE) for the car using a Model Predictive Controller. The parameters of the controller are designed to ensure the car remains on the road and does not jump the lane lines in the simulator. The pipeline is implemented in C++. The controller is tested in a UDACITY provided simulator for a self-driving car. 
 
 
 ## Dependencies
