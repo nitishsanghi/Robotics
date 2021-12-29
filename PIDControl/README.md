@@ -1,8 +1,7 @@
 PID Controller for autonomous car
 
 
----
-
+![Alt Text](https://media.giphy.com/media/MsBLKpFjjvQtizgJlS/giphy.gif)
 ## Dependencies
 
 * cmake >= 3.5
