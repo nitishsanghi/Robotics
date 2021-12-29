@@ -1,5 +1,5 @@
 # Extended Kalman Filter in C++
-In this project a kalman filter is used to estimate the state of a moving object of interest with noisy lidar and radar measurements. 
+In this project a kalman filter is used to estimate the state of a moving object of interest with noisy lidar and radar measurements. In the gif below, the green path is the estimation of the state of the moving object which the filter makes using the noisy lidar and radar data measurements in red and blue.
 
 ![Alt Text](https://media.giphy.com/media/PyG0FvierCI6vAowKw/giphy.gif)
 
