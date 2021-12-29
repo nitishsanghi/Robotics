@@ -1,7 +1,7 @@
 # Extended Kalman Filter in C++
 In this project a kalman filter is used to estimate the state of a moving object of interest with noisy lidar and radar measurements. 
 
-![Alt Text](https://media.giphy.com/media/yXOMJnsdg8TUsLVnHF/giphy.gif)
+![Alt Text](https://media.giphy.com/media/PyG0FvierCI6vAowKw/giphy.gif)
 
 ## Other Important Dependencies
 
